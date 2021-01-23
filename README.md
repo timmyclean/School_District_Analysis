@@ -11,9 +11,13 @@ Using Jupyter and Panda
 
 * It was then discovered that the intial data had been comprimised and the client asked that we remove the comprimised values and run intial tasks again.
 
-### Results
+### Results & Summary
 * The comprimised Data was within Thomas High School 9th grade grades, they had been altered.
 
-* Once we removed that data from Thomas High School we saw considerable improvement in all averages (math, reading, and overall) therefore concluding that the 9th grade scores were very low. As seen by the DataFrame Charts...
+* Once we removed that data from Thomas High School we saw considerable improvement in all averages (math, reading, and overall) therefore concluding that the 9th grade scores were very low. 
+
+* We also saw no relation in terms of spending i.e. the more spent per student does not produce higher grades, however the size of the school seems to have an influence the larger the school the more difficult it is to create higher grades.
+
+
 
   
