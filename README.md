@@ -18,6 +18,10 @@ Using Jupyter and Panda
 
 * We also saw no relation in terms of spending i.e. the more spent per student does not produce higher grades, however the size of the school seems to have an influence the larger the school the more difficult it is to create higher grades.
 
+* Overall we roccommend that a focus be put on District schools, primarily in the earlier grades. 
+
+* please refer to DataFrames within the analysis.
+
 
 
   
